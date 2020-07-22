@@ -1,2 +1,3 @@
 # face-detector
-Face and eyes detector using Haar cascade model.
+Face and eyes detector using Haar C
+ascade model.
